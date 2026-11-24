@@ -1,4 +1,3 @@
-
 // SISTEMA DE PARTICIPACION CIUDADANA
 
 const casillas = document.querySelectorAll(
